@@ -1,0 +1,9 @@
+Package: com.rpetrich.loadlog
+Priority: optional
+Section: System
+Architecture: iphoneos-arm
+Version: 0.1
+Description: Debug dyld image loading
+Name: LoadLog
+Depends: firmware (>= 4.0), mobilesubstrate
+Author: Ryan Petrich <rpetrich@gmail.com>
